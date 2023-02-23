@@ -1,8 +1,8 @@
 # Face Expression Classification
-By: Maryam Mahmoudi
-Date: 26 Nov 2022
-
 This code is designed to train a neural network model to classify facial expressions using the FER2013 dataset. The dataset contains 48x48 pixel grayscale images of faces, with seven different expressions: angry, disgust, fear, happy, sad, surprise, and neutral.
+
+#By: Maryam Mahmoudi
+Date: 26 Nov 2022
 
 The code is divided into two main parts:
 
